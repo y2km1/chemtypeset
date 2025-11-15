@@ -71,14 +71,31 @@ Expected output:
 
 ## Example snippet
 
-\chem{2H2O(l) -> O2(g) + 4H+ (aq) + 4e-}
+\chem{H2O}
 
-\chem{Fe^3+ + SCN^- -> FeSCN^2+}
+\chem{SO4^2-}
 
-\chem{Ca(OH)2 + 2HCl -> CaCl2 + 2H2O}
+\chem{[Cu(NH3)4]^2+}
+
+\chem{Zn(s) -> Zn^2+ (aq) + 2e-}
+
+\chem{2H2O(l) + 2e- -> H2(g) + 2OH-(aq)}
+
+\chem{N2(g) + 3H2(g) <=> 2NH3(g)}
+
+\chem{CO(g) + H2O(g) <- CO2(g) + H2(g)}
+
+\chem{CuSO4*5H2O(s)}
 
 ---
 
+## Output
+
+<img width="845" height="754" alt="prev" src="https://github.com/user-attachments/assets/14c2160e-7d8f-4c4f-b0e7-26a922b74a1e" />
+
+
+
+---
 ## Installation
 
 1. In Anki: **Tools → Add-ons → View Files**  
